@@ -1,4 +1,5 @@
-![Loading GIF](https://res.cloudinary.com/dx3zmidgq/image/upload/v1737071243/Git%20Hub/d2eb600c80c27ee32a019bcddccbc83ec7394c92r1-500-150_hq_ei7klz.gif)
+<img src="https://res.cloudinary.com/dx3zmidgq/image/upload/v1737071243/Git%20Hub/d2eb600c80c27ee32a019bcddccbc83ec7394c92r1-500-150_hq_ei7klz.gif" alt="Descripción del GIF" style="width: 100%; height: auto;">
+
 
 # ¡Hola! 👋 Soy desarrollador de software 🚀
 Apasionado por transformar ideas en soluciones digitales. Tengo experiencia en desarrollo web, móvil y de escritorio, trabajando en backend y frontend.
