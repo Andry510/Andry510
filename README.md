@@ -19,6 +19,6 @@ Siempre busco aprender y colaborar en proyectos que marquen la diferencia. ¡Con
 # Git Hub Analytics
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andry510&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andry510&show_icons=true&theme=radical)
 
 </div>
