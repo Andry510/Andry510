@@ -15,6 +15,6 @@ Siempre busco aprender y colaborar en proyectos que marquen la diferencia. ¡Con
 # Git Hub Analytics
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andry510&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 200px; width: auto;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andry510&layout=compact&theme=radical" alt="Top Languages" style="height: 200px; width: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Andry510&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%;  height: 150px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andry510&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; height: 150px;"/>
 </div>
