@@ -1,4 +1,4 @@
-<div align="center" style="width: 100%;>
+<div align="center" style="width: 100%;">
 
 <img src="https://res.cloudinary.com/dx3zmidgq/image/upload/v1737071243/Git%20Hub/d2eb600c80c27ee32a019bcddccbc83ec7394c92r1-500-150_hq_ei7klz.gif" alt="GIF" style="width: 100%; height: 100%; object-fit: fill;">
 
