@@ -7,7 +7,7 @@ Siempre busco aprender y colaborar en proyectos que marquen la diferencia. ¡Con
 ## 🛠 Habilidades Técnicas
 
 - 💻 Lenguajes: JavaScript, TypeScript, .Net, Rust, etc.
-- 🌐 Frameworks: React, Tauri, NestJS, etc.
+- 🌐 Frameworks: React, React Native, Tauri, NestJS, etc.
 - ☁️ Servicios en la nube: AWS.
 - 📦 Bases de datos: MongoDB, PostgreSQL, SQLite, etc.
 - 🎨 Diseño: TailwindCSS, Styled-Components, etc.
