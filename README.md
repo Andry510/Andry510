@@ -1,5 +1,6 @@
-<img src="https://res.cloudinary.com/dx3zmidgq/image/upload/v1737071243/Git%20Hub/d2eb600c80c27ee32a019bcddccbc83ec7394c92r1-500-150_hq_ei7klz.gif" alt="GIF" style="width: 100%; height: 100%; object-fit: fill;">
+<div align="center">
 
+<img src="https://res.cloudinary.com/dx3zmidgq/image/upload/v1737071243/Git%20Hub/d2eb600c80c27ee32a019bcddccbc83ec7394c92r1-500-150_hq_ei7klz.gif" alt="GIF" style="width: 100%; height: 100%; object-fit: fill;">
 
 # ¡Hola! 👋 Soy desarrollador de software 🚀
 Apasionado por transformar ideas en soluciones digitales. Tengo experiencia en desarrollo web, móvil y de escritorio, trabajando en backend y frontend.
@@ -11,7 +12,9 @@ Siempre busco aprender y colaborar en proyectos que marquen la diferencia. ¡Con
 * 🌐 Frameworks: React, Tauri, NestJS, etc.
 * ☁️ Servicios en la nube: AWS.
 * 📦 Bases de datos: MongoDB, PostgreSQL, SQLite, etc.
-* 🎨7 Diseño: TailwindCSS, Styled-Components, etc.
+* 🎨 Diseño: TailwindCSS, Styled-Components, etc.
 
 # Git Hub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andry510&show_icons=true)
+
+</div>
