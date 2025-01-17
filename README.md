@@ -1,9 +1,3 @@
-<div align="center" style="width: 100%;">
-
-<img src="https://res.cloudinary.com/dx3zmidgq/image/upload/v1737071243/Git%20Hub/d2eb600c80c27ee32a019bcddccbc83ec7394c92r1-500-150_hq_ei7klz.gif" alt="GIF" style="width: 100%; height: 100%; object-fit: fill;">
-
-</div>
-
 # ¡Hola! 👋 Soy desarrollador de software 🚀
 Apasionado por transformar ideas en soluciones digitales. Tengo experiencia en desarrollo web, móvil y de escritorio, trabajando en backend y frontend.
 
@@ -17,8 +11,15 @@ Siempre busco aprender y colaborar en proyectos que marquen la diferencia. ¡Con
 * 🎨 Diseño: TailwindCSS, Styled-Components, etc.
 
 # Git Hub Analytics
-<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andry510&layout=compact&theme=radical)
+<details>
 
-</div>
+  <div align="center">
+
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andry510&show_icons=true&theme=radical)
+
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andry510&layout=compact&theme=radical)
+
+  </div>
+
+</details>
