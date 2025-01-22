@@ -6,11 +6,11 @@ Siempre busco aprender y colaborar en proyectos que marquen la diferencia. ¡Con
 
 ## 🛠 Habilidades Técnicas
 
-- 💻 Lenguajes: JavaScript, TypeScript, .Net, Rust, etc.
-- 🌐 Frameworks: React, React Native, Tauri, NestJS, etc.
+- 💻 Lenguajes: JavaScript, TypeScript, .Net y Rust
+- 🌐 Frameworks: React, React Native, Tauri y NestJS
 - ☁️ Servicios en la nube: AWS.
-- 📦 Bases de datos: MongoDB, PostgreSQL, SQLite, etc.
-- 🎨 Diseño: TailwindCSS, Styled-Components, etc.
+- 📦 Bases de datos: MongoDB, PostgreSQL, SQLite, Mysql y DinamoDb
+- 🎨 Diseño: TailwindCSS y Styled-Components
 
 # Git Hub Analytics
 
